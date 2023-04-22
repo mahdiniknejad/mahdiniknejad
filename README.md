@@ -12,7 +12,7 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 
 - 🔭 I’m working as a Backend Developer and DevOps Engineer for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I develop open source project.
+- ⚡ In my free time I develop open source projects.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
