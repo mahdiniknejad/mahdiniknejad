@@ -38,8 +38,8 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 ---
 
 ###  Experiences: 
-- freelance 2019-2020
-- Datacolab 2021-Now
-- Khodnevis 2022-Now
-- Qom University of tech (TA) 2023
-- Quantum-Camputing 2023-Now
+- freelance 2019-2020 as Devops Engineer
+- Datacolab 2021-Now as Backend Developer
+- Khodnevis 2022-Now as Backend Developer and Devops Engineer
+- Qom University of tech (TA) 2023 as Relational Database Teacher Assist
+- Quantum-Camputing 2023-Now as Server Manager 
