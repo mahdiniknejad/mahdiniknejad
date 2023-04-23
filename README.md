@@ -46,15 +46,19 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 - Qom University of tech (TA) 2023 as Relational Database Teacher Assist
 - Quantum-Camputing 2023-Now as Server Manager
 
-* Hobby 1
+* freelance 
+  * | Company 1 | Period of work (mm/yyyy - mm/yyyy) |
+  * |:---------:|:----------------------------------:|
+  * | Position 1 | Description about position 1 |
+
+  * | Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+  * |:---------:|:----------------------------------:|
+  * | Position 2 | Description about position 2 |
+
+* Hobby 2
   * Nested Hobby 1
     * Sub-nested Hobby 1
-* Hobby 2
 * Hobby 3
-
-1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
-2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
-
 
 ---
 ###  Tools: 
