@@ -52,6 +52,10 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 * Hobby 2
 * Hobby 3
 
+1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
+2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
+
+
 ---
 ###  Tools: 
 <p>
