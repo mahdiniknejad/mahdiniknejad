@@ -40,9 +40,6 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 ---
 
 ###  Work Experiences: 
-- Khodnevis 2022-Now as Backend Developer and Devops Engineer
-- Qom University of tech (TA) 2023 as Relational Database Teacher Assist
-- Quantum-Camputing 2023-Now as Server Manager
 
 * Freelance 
   * Backend Developer rasamarket.ir (2018-2019)
