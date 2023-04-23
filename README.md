@@ -46,18 +46,14 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 - Qom University of tech (TA) 2023 as Relational Database Teacher Assist
 - Quantum-Camputing 2023-Now as Server Manager
 
-* freelance 
-  | Company 1 | Period of work (mm/yyyy - mm/yyyy) |
-  |:---------:|:----------------------------------:|
-  | Position 1 | Description about position 1 |
-  | Company 2 | Period of work (mm/yyyy - mm/yyyy) |
-  |:---------:|:----------------------------------:|
-  | Position 2 | Description about position 2 |
-
-* Hobby 2
-  * Nested Hobby 1
-    * Sub-nested Hobby 1
-* Hobby 3
+* Freelance 
+  * Backend Developer rasamarket.ir (2018-2019)
+  * Backend Developer and DevOps engineer shikpooshstoreshop.ir (2019-2020)
+* Datacolab
+  * Python Developer and OCR Learner at Tiresize (2021)
+    * python, opencv, mmocr 
+  * Backend Developer at cisco survay (2021)
+    * python, flask, postgres, redis, jinja
 
 ---
 ###  Tools: 
