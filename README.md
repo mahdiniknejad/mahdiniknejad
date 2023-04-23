@@ -47,13 +47,12 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 - Quantum-Camputing 2023-Now as Server Manager
 
 * freelance 
-  * | Company 1 | Period of work (mm/yyyy - mm/yyyy) |
-  * |:---------:|:----------------------------------:|
-  * | Position 1 | Description about position 1 |
-
-  * | Company 2 | Period of work (mm/yyyy - mm/yyyy) |
-  * |:---------:|:----------------------------------:|
-  * | Position 2 | Description about position 2 |
+  | Company 1 | Period of work (mm/yyyy - mm/yyyy) |
+  |:---------:|:----------------------------------:|
+  | Position 1 | Description about position 1 |
+  | Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+  |:---------:|:----------------------------------:|
+  | Position 2 | Description about position 2 |
 
 * Hobby 2
   * Nested Hobby 1
