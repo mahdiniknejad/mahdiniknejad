@@ -35,7 +35,7 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdiniknejad&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-stats.vercel.app/api?username=mahdiniknejad&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-stats.vercel.app/api?username=mahdiniknejad&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
 ###  Experiences: 
