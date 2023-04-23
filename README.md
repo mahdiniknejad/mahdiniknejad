@@ -40,8 +40,6 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 ---
 
 ###  Work Experiences: 
-- freelance 2019-2020 as Devops Engineer
-- Datacolab 2021-Now as Backend Developer
 - Khodnevis 2022-Now as Backend Developer and Devops Engineer
 - Qom University of tech (TA) 2023 as Relational Database Teacher Assist
 - Quantum-Camputing 2023-Now as Server Manager
@@ -56,6 +54,8 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
   
   * Backend Developer at cisco survay (2021)
     * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  * Python Developer at Crawler Project (2021-2022)
+    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 ###  Tools: 
