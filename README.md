@@ -78,7 +78,6 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 
 ---
 
-
 ### Other Tools: 
 <p>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
