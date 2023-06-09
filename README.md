@@ -75,6 +75,7 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
   
   * Teacher Assistant
     * Web (2022)
+    * Database (2023)
     * Network (2023)
 
 * VPN Manager (2023)
