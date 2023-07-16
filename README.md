@@ -81,6 +81,9 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
 * VPN Manager (2023)
   * openVPN, SoftEther, V2ray, SSTP
 
+* OpenSource
+  * [email-domain-verification](https://pypi.org/project/email-domain-verification/) 
+
 ---
 
 ### Other Tools: 
