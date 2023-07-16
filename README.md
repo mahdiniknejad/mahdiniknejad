@@ -82,7 +82,7 @@ I am a Backend Developer and DevOps Engineer <img src="https://media.giphy.com/m
   * openVPN, SoftEther, V2ray, SSTP
 
 * OpenSource
-  * [email-domain-verification](https://pypi.org/project/email-domain-verification/)  copyright: khodnevisai.com
+  * [email-domain-verification](https://pypi.org/project/email-domain-verification/)  Copyright (c) 2023, Khodnevisai.com
 
 ---
 
